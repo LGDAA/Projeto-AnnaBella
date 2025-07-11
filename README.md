@@ -3,7 +3,7 @@
 Este é um projeto fictício de um **site pessoal da modelo Anna Bella**, desenvolvido com **HTML5 e CSS3**. O objetivo é simular um portfólio simples e elegante, apresentando informações básicas da modelo, sua biografia, galeria de fotos e formas de contato.
 <img width="1341" height="623" alt="image" src="https://github.com/user-attachments/assets/8022fb2b-35e8-4216-b473-5638cc41c71c" />
 
-
+Para visualização do projeto, acesse: https://lgdaa.github.io/Projeto-AnnaBella/
 ---
 
 ## 🧪 Tecnologias Utilizadas
