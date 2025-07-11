@@ -1,0 +1,41 @@
+body{
+    background: #d2d2c1 url(/2_CSS_Básico/imagens/fundo.png);
+    font: 18px Arial, Helvetica, sans-serif;
+}
+
+#principal{
+    width: 900px;
+}
+
+#menu{
+    background: #c5c5b2;
+    font-size: 24px;
+    padding: 18px;
+}
+
+a{
+    color: #4b566a;
+    text-decoration: none;
+    padding: 5px;
+    font-weight: bold;
+}
+
+.sobre-ana,
+.campanhas,
+.contato{
+    background: white;
+    padding: 15px ;
+}
+
+h2{
+    color: #828271;
+    font-size: 1.2em;
+}
+
+#rodape{
+    text-align: center;
+}
+
+.img-campanha{
+    border: 0.8rem solid #c3c3ae;
+}
